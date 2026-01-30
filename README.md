@@ -149,7 +149,8 @@ Open3D point cloud pipeline looks good.
 
 **Screenshot:**  
 
-![Python Tests Passing](images/py%26pointcloud%20test.png)
+<img width="2559" height="1598" alt="image" src="https://github.com/user-attachments/assets/4016b94f-f279-4c39-8892-6826b87e6866" />
+
 
 ---
 
@@ -334,4 +335,5 @@ Before submitting, ensure you have:
 ---
 
 **End of Report**
+
 
